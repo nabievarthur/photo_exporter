@@ -13,8 +13,6 @@ import (
 	"time"
 )
 
-// Обновленная структура Photo с новыми полями
-
 func main() {
 	time.Sleep(1 * time.Second)
 	fmt.Println("=== Photo Exporter запущен ===")
